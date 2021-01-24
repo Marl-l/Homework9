@@ -255,7 +255,7 @@ box-shadow: 0 6px 8px rgba(0, 0, 0, .25);
 	padding: 5px;
 }
 
-tbody tr:nth-child(even) {
+.main tbody tr:nth-child(even) {
 	background-color: #c1c1b2d1;
 }
 
